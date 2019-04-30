@@ -3763,6 +3763,7 @@ body.is-preload #banner p {
 
 .wrapper.style3 {
   background-color: #3d4051;
+  display: none;
 }
 
 .wrapper.style3:before,
@@ -4214,3 +4215,7 @@ body.is-preload #banner p {
 .content ul {
   text-align: left;
 }
+
+/* .wrapper.style1 {
+  display: none;
+} */
